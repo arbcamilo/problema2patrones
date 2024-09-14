@@ -1,8 +1,7 @@
 import AbstractFactoryPattern.ServiceFactory;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+
 import AbstractFactoryPattern.ColombiaServiceFactory;
-import AbstractFactoryPattern.ServiceFactory;
 import FactoryMethodPattern.Loan;
 import FactoryMethodPattern.LoanFactory;
 
